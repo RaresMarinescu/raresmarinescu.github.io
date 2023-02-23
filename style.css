@@ -1,0 +1,40 @@
+body {
+	background: #3f3f3f;
+	color: white;
+}
+
+input {
+	width: 100%;
+	text-align: center;
+	border: 1px solid white;
+	background-color: #3f3f3f;
+	color: white;
+	outline: none;
+}
+
+button {
+	width: 100%;
+	border: 1px solid white;
+	background-color: #3f3f3f;
+	color: white;
+	outline: none;
+}
+
+.title {
+	font-size: 14px;
+	text-align: center;
+}
+
+.context {
+	margin: auto;
+	width: 60%;
+	padding: 10px;
+}
+
+.result {
+	margin: auto;
+	width: 90%;
+	padding: 10px;
+	text-align: center;
+}
+
